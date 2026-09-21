@@ -44,13 +44,9 @@ Re-running the file through the application with the exact same passphrase strip
    cd image-encryption-tool
 
    Compile the Java File:
-
-
-javac ImageOperation.java
-Run the Application:
-
-
-java ImageOperation
+   javac ImageOperation.java
+   Run the Application:
+   java ImageOperation
 
 
 Usage Guide
